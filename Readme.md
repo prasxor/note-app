@@ -45,7 +45,7 @@ This is a **Note-taking application** where users can create, save, and delete n
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/note-app.git
+    git clone https://github.com/prasxor/Note-App.git
     ```
 2. **Navigate to the Project Directory**:
     ```bash
@@ -69,7 +69,7 @@ note-app/
 
 ## Demo
 
-You can view a live demo of the app [here](#).
+You can view a live demo of the app https://prasxor-noteapp.netlify.app/ .
 
 ## Future Improvements
 
