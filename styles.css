@@ -46,7 +46,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: end;
-    border: 1px solid green;
 }
 
 .tool img {
@@ -122,4 +121,19 @@ body {
     align-items: center;
     justify-content: center;
     margin: 0 !important;
+}
+
+/* responsive design  */
+
+
+@media (min-width: 360px) {
+    .note {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 350px;
+        height: 550px;
+        flex-direction: column;
+        margin: 19px auto;
+    }
 }
